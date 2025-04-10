@@ -18,4 +18,4 @@ This Python script scans a specified directory for duplicate files based on thei
 2. **Run the script** by passing the directory path you want to scan as a command-line argument:
 
    ```bash
-   python deduplicator.py /path/to/directory
+   python deduplicate.py /path/to/directory
